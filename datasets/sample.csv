@@ -497,7 +497,7 @@ Timestamp,Request,Result,StatusCode,IsSuccess,Duration
 2020-08-06 23:04:36.537,GET http://127.0.0.1:8080/apps/104,Executed,200,true,96
 2020-08-06 23:04:36.526,GET http://127.0.0.1:8080/apps/113,Executed,200,true,103
 2020-08-06 23:04:36.523,GET http://127.0.0.1:8080/apps/111,Executed,200,true,107
-2020-08-06 23:04:36.554,GET http://127.0.0.1:8080/apps/119,Executed,200,true,83
+2020-08-06 23:04:36.554,GET http://127.0.0.1:8080/apps/invalid,Executed,404,false,83
 2020-08-06 23:04:36.557,GET http://127.0.0.1:8080/apps/104,Executed,200,true,72
 2020-08-06 23:04:36.522,GET http://127.0.0.1:8080/apps/110,Executed,200,true,116
 2020-08-06 23:04:36.555,GET http://127.0.0.1:8080/apps/120,Executed,200,true,85
@@ -747,7 +747,7 @@ Timestamp,Request,Result,StatusCode,IsSuccess,Duration
 2020-08-06 23:04:36.836,GET http://127.0.0.1:8080/apps/105,Executed,200,true,50
 2020-08-06 23:04:36.799,GET http://127.0.0.1:8080/apps/101,Executed,200,true,77
 2020-08-06 23:04:36.843,GET http://127.0.0.1:8080/apps/111,Executed,200,true,44
-2020-08-06 23:04:36.814,GET http://127.0.0.1:8080/apps/120,Executed,200,true,74
+2020-08-06 23:04:36.814,GET http://127.0.0.1:8080/apps/120,Request timeout,,false,30000
 2020-08-06 23:04:36.746,GET http://127.0.0.1:8080/apps/112,Executed,200,true,143
 2020-08-06 23:04:36.835,GET http://127.0.0.1:8080/apps/103,Executed,200,true,54
 2020-08-06 23:04:36.817,GET http://127.0.0.1:8080/apps/102,Executed,200,true,75
@@ -2104,7 +2104,7 @@ Timestamp,Request,Result,StatusCode,IsSuccess,Duration
 2020-08-06 23:04:37.97,GET http://127.0.0.1:8080/apps/116,Executed,200,true,96
 2020-08-06 23:04:37.972,GET http://127.0.0.1:8080/apps/120,Executed,200,true,70
 2020-08-06 23:04:37.997,GET http://127.0.0.1:8080/apps/106,Executed,200,true,71
-2020-08-06 23:04:38.013,GET http://127.0.0.1:8080/apps/101,Executed,200,true,54
+2020-08-06 23:04:38.013,GET http://127.0.0.1:8080/apps/invalid,Executed,404,false,54
 2020-08-06 23:04:38.014,GET http://127.0.0.1:8080/apps/103,Executed,200,true,53
 2020-08-06 23:04:38.007,GET http://127.0.0.1:8080/apps/116,Executed,200,true,63
 2020-08-06 23:04:37.967,GET http://127.0.0.1:8080/apps/111,Executed,200,true,105

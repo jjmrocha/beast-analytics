@@ -1,7 +1,7 @@
 beast-analytics
 ===============
 
-*Jupyter notebooks for beast's output files*
+*Jupyter notebooks for processing output files from [the Beast](https://github.com/jjmrocha/beast)*
 
 
 Requirements
